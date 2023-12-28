@@ -4,6 +4,7 @@ Passionné par la science des données et le Machine Learning, j'ai acquis une s
 
 Pour vous repérer dans les différents projets, j'ai réalisé ce tableau:
 | Nom Projet | Problématique | Language | Librairies et technologies |
+|-----------|:-----------:|-----------:|-----------:| 
 | Academy | Visualisation  | ![Static Badge](https://img.shields.io/badge/Python-blue) | |
 | Santé publique France | Visualisation | ![Static Badge](https://img.shields.io/badge/Python-blue) | ![Static Badge](https://img.shields.io/badge/Sklearn-dark_green) |
 | Seattle | Régression | ![Static Badge](https://img.shields.io/badge/Python-blue) | ![Static Badge](https://img.shields.io/badge/Sklearn-dark_green) ![Static Badge](https://img.shields.io/badge/XGBoost-blue) ![Static Badge](https://img.shields.io/badge/LightGBM-yellow) |
