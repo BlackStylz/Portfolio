@@ -3,6 +3,7 @@
 Passionné par la science des données et le Machine Learning, j'ai acquis une solide expertise en exploration, manipulation de données, et utilisation de Python pour l'analyse statistique. Je maîtrise la visualisation de données pour une communication efficace. Mes compétences incluent également l'apprentissage automatique de base avec des algorithmes tels que les arbres de décision, régressions et clustering. Je cherche à approfondir mes connaissances en modélisation prédictive avancée, notamment les réseaux de neurones et le deep learning. Je suis un résolveur de problèmes créatif, autonome, à l'aise dans un contexte axé sur les données, avec une compréhension solide des principes statistiques.
 
 Pour vous repérer dans les différents projets, j'ai réalisé ce tableau:
+(Chaque projet contient un support de présentation orale)
 | Nom Projet | Problématique | Language | Librairies et technologies |
 |-----------|:-----------:|-----------:|-----------:| 
 | Academy | Visualisation  | ![Static Badge](https://img.shields.io/badge/Python-blue) | |
