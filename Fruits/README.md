@@ -1,5 +1,5 @@
 # Fruits
-[Static Badge](https://img.shields.io/badge/PySpark-orange) 
+![Static Badge](https://img.shields.io/badge/PySpark-orange) 
 
 ![Static Badge](https://img.shields.io/badge/AWS-grey) | ![Static Badge](https://img.shields.io/badge/ComputerVision-orange)
 
